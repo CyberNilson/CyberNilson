@@ -1,4 +1,27 @@
-## Hi there 👋
+<h1>Hola, soy Nilson! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+
+
+# 🛡️ SOC Analyst Portfolio
+
+Bienvenido a mi portafolio como SOC Analyst. Aquí documento análisis reales de alertas, investigaciones y simulaciones completadas en plataformas como LetsDefend y TryHackMe.
+
+## 📚 Contenido
+
+- 📨 [Phishing Email Report – 10/06/2025](incidents/phishing-email-2025-06-10.md)
+- ⚙️ [PowerShell Obfuscation – 07/06/2025](incidents/powershell-obfuscation-2025-06-07.md)
+- 🌐 [Unauthorized RDP Access – 01/06/2025](incidents/rdp-access-incident-2025-06-01.md)
+
+ 🧰 Herramientas utilizadas
+
+- SIEM (LetsDefend)
+- Sysmon
+- VirusTotal
+- MITRE ATT&CK Navigator
+- Wireshark
+- PowerShell
+
+> Este portafolio está en constante expansión.
+
 
 <!--
 **CyberNilson/CyberNilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
