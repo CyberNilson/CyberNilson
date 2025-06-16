@@ -7,7 +7,7 @@ Bienvenido a mi portafolio como SOC Analyst. Aquí documento análisis reales de
 
 ## 📚 Contenido
 
-- 📨 [Phishing Email Report – 10/06/2025](incidents/phishing-email-2025-06-10.md)
+- 📨 [Phishing Email Report – 16/06/2025](https://github.com/CyberNilson/phishing_case-8815/blob/main/README.md)
 - ⚙️ [PowerShell Obfuscation – 07/06/2025](incidents/powershell-obfuscation-2025-06-07.md)
 - 🌐 [Unauthorized RDP Access – 01/06/2025](incidents/rdp-access-incident-2025-06-01.md)
 
