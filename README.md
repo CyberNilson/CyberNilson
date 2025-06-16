@@ -13,10 +13,10 @@ Bienvenido a mi portafolio como SOC Analyst. Aquí documento análisis reales de
 
 ## 🧰 Herramientas utilizadas
 
-- SIEM (LetsDefend)
+- SIEM (SPLUNK,LETSDEFEND)
 - Sysmon
 - VirusTotal
-- MITRE ATT&CK Navigator
+- MITRE ATT&CK
 - Wireshark
 - PowerShell
 
