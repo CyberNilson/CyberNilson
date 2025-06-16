@@ -11,7 +11,7 @@ Bienvenido a mi portafolio como SOC Analyst. Aquí documento análisis reales de
 - ⚙️ [PowerShell Obfuscation – 07/06/2025](incidents/powershell-obfuscation-2025-06-07.md)
 - 🌐 [Unauthorized RDP Access – 01/06/2025](incidents/rdp-access-incident-2025-06-01.md)
 
- 🧰 Herramientas utilizadas
+## 🧰 Herramientas utilizadas
 
 - SIEM (LetsDefend)
 - Sysmon
