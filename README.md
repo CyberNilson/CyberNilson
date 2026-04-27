@@ -1,7 +1,8 @@
 <h1>Hi, I'm Nilson! <br/>
   <a href="https://www.linkedin.com/in/cyberNilson/">Cybersecurity Professional</a>
 </h1>
-## 🛡️ SOC Analyst Portfolio
+
+# 🛡️ SOC Analyst Portfolio
 
 Welcome to my SOC Analyst portfolio. Here I document real-world alert analysis, threat investigations, and hands-on simulations completed on platforms like LetsDefend and TryHackMe.
 
