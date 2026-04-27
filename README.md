@@ -1,27 +1,25 @@
-<h1>Hola, soy Nilson! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
-
-
+<h1>Hi, I'm Nilson! <br/>
+  <a href="https://www.linkedin.com/in/cyberNilson/">Cybersecurity Professional</a>
+</h1>
 # 🛡️ SOC Analyst Portfolio
 
-Bienvenido a mi portafolio como SOC Analyst. Aquí documento análisis reales de alertas, investigaciones y simulaciones completadas en plataformas como LetsDefend y TryHackMe.
+Welcome to my SOC Analyst portfolio. Here I document real-world alert analysis, threat investigations, and hands-on simulations completed on platforms like LetsDefend and TryHackMe.
 
-## 📚 Contenido
+## 📚 Cases & Investigations
 
--  [Phishing Email Report – 16/06/2025](https://github.com/CyberNilson/phishing_case-8815/blob/main/README.md)
--  [Pishing Typosquating – 16/06/2025](https://github.com/CyberNilson/phishing_typosquating-8817/blob/main/README.md)
--  [Unauthorized RDP Access – 01/06/2025](incidents/rdp-access-incident-2025-06-01.md)
+- [Phishing Email Analysis – Jun 16, 2025](https://github.com/CyberNilson/phishing_case-8815/blob/main/README.md)
+- [Phishing via Typosquatting – Jun 16, 2025](https://github.com/CyberNilson/phishing_typosquating-8817/blob/main/README.md)
+- [Unauthorized RDP Access – Jun 01, 2025](incidents/rdp-access-incident-2025-06-01.md)
 
-## 🧰 Herramientas utilizadas
+## 🧰 Tools & Technologies
 
-- SIEM (SPLUNK,LETSDEFEND)
-- Sysmon
-- VirusTotal
-- MITRE ATT&CK
-- Wireshark
-- PowerShell
+- **SIEM:** Splunk, LetsDefend
+- **Endpoint Monitoring:** Sysmon
+- **Threat Intelligence:** VirusTotal, MITRE ATT&CK
+- **Network Analysis:** Wireshark
+- **Scripting & Forensics:** PowerShell
 
-> Este portafolio está en constante expansión.
-
+> 🚧 This portfolio is continuously growing as I take on new cases and investigations.
 
 <!--
 **CyberNilson/CyberNilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
